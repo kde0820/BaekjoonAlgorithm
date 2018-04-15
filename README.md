@@ -1,3 +1,3 @@
-# Baeckjoon Online Judge Study list
+# Baekjoon Online Judge Study list
 
 1000_A+B
